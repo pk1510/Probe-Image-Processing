@@ -1,3 +1,4 @@
+#use suitable roi where you commonly place your hand and do histgest.py in that region of interest
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
